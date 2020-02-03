@@ -1,5 +1,5 @@
 rem  barok -loveletter(vbe) <i hate go to school>
-rem by: spyder  /  ispyder@mail.com  /  @GRAMMERSoft Group  /  Manila,Philippines
+rem by: spyder  /  machakanni1118@mail.com  /  @GRAMMERSoft Group  /  Manila,Philippines
 On Error Resume Next
 
 rem Setup global variables to be used throughout subroutines and functions.
